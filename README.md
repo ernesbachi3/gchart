@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
